@@ -1,9 +1,9 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Sarah 👋
 
-## 🚀 Sobre mim
+## Sobre mim
 Me chamo Sarah Freitas e sou estudante do primeiro ano do curso de informática para internet na Escola Técnica Vasco Antônio Venchiarutti
-📚 Atualmente estudando: `JavaScript`, `React`, `Node.js` 
-🌎 Brasil 🇧🇷
+Atualmente estudando: `JavaScript`, `React`, `Node.js` 
+Brasil 🇧🇷
 
 ---
 
@@ -33,10 +33,10 @@ Me chamo Sarah Freitas e sou estudante do primeiro ano do curso de informática 
 <div align="center">
   <a href="https://github.com/sarah131418">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      src="https://github-readme-stats.vercel.app/api?username=sarah131418&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=7&theme=tokyonight"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah131418&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
