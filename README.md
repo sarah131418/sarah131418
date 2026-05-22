@@ -1,4 +1,4 @@
-# Olá, eu sou Sarah 👋
+# Olá, eu sou Sarah
 
 ## Sobre mim
 Me chamo Sarah Freitas e sou estudante do primeiro ano do curso de informática para internet na Escola Técnica Vasco Antônio Venchiarutti
