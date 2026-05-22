@@ -2,7 +2,7 @@
 
 ## Sobre mim
 Me chamo Sarah Freitas e sou estudante do primeiro ano do curso de informática para internet na Escola Técnica Vasco Antônio Venchiarutti
-Atualmente estudando: `JavaScript`, `React`, `Node.js` 
+Atualmente estudando: `JavaScript`, `c++`, `portugol` 
 Brasil 🇧🇷
 
 ---
