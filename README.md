@@ -7,7 +7,7 @@ Brasil 🇧🇷
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="40" width="50"
@@ -28,7 +28,7 @@ Brasil 🇧🇷
 
 ---
 
-## 🌐 Redes Sociais
+## Redes Sociais
 
 <div>
   <a href="https://instagram.com/sarahfreitas96" target="_blank">
@@ -42,6 +42,6 @@ Brasil 🇧🇷
 
 ---
 
-## ✨ Frase
+## Frase
 
 > "Transformando café ☕ em código 💻"
