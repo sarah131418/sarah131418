@@ -21,9 +21,6 @@ Brasil 🇧🇷
 
   <img align="center" alt="React" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
-  <img align="center" alt="Node" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
 ---
@@ -39,9 +36,3 @@ Brasil 🇧🇷
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
----
-
-## Frase
-
-> "Transformando café ☕ em código 💻"
